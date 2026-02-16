@@ -1,0 +1,47 @@
+# Base
+curl
+git
+vim
+tmux
+jq
+ca-certificates
+gnupg
+lsb-release
+
+# Networking / diagnostics
+nmap
+ncat
+netcat-openbsd
+tcpdump
+wireshark
+proxychains4
+
+# Web / enumeration
+ffuf
+gobuster
+
+# Password / brute tools (authorized use only)
+hydra
+hashcat
+
+# Reverse engineering
+radare2
+
+# Forensics / misc
+exiftool
+testssl.sh
+seclists
+
+# Remote desktop
+remmina
+freerdp2-x11
+rdesktop
+
+# Java
+default-jre
+
+# Python baseline + pipx
+python3
+python3-venv
+python3-pip
+pipx
