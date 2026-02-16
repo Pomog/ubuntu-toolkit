@@ -60,3 +60,6 @@ install_snap() {
 sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt autoclean -y
 sudo snap install android-studio --classic
 sudo snap install --classic code
+
+sudo add-apt-repository multiverse
+sudo apt install steam
