@@ -1,0 +1,5 @@
+# Snap packages
+
+android-studio --classic
+zaproxy --classic
+metasploit-framework
